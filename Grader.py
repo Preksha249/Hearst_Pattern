@@ -12,7 +12,7 @@ from hw1 import problem1,problem2
 
 
 studentName = "Preksha"
-inputFileName = 'hw1.py'
+inputFileName = 'Main.py'
 
 #there will likely be 5-10 problems
 
